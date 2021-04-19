@@ -1,7 +1,8 @@
-# Template2D-Unity202015f1
+# pair-speedprogramming
 
 ### Project description: 
-Introduction/Project summary 
+Working in pairs (bgreis/jbaum) 
+spawning Flowers
 
 ### Development platform: 
 (OS, Unity Version, Visual Studio Version, used SDKs)
@@ -25,4 +26,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by bgreis/jbaum
